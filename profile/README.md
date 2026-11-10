@@ -6,7 +6,6 @@ This organization contains the repositories required to build LineageOS-based RO
 
 **Status:** Currently supports LineageOS 24.0 (Android 17)
 
-**Bug:** USB-c dp alt mode
 
 ### Repositories
 * [**Uke Device tree**](https://github.com/Xiaomi-pad7-dev/android_device_xiaomi_uke) (`android_device_xiaomi_uke`)
